@@ -19,6 +19,27 @@
  *  Default admin login ->  username: admin   password: admin123
  *  (Students can register their own account from the main menu.)
  * ===================================================================== */
+/* =====================================================================
+ *  QUIZ GAME APPLICATION  (Programming Fundamentals - CSC103)
+ *  A single-file, menu-driven, terminal based MCQ quiz system.
+ *
+ *  Meets the lab terminal requirements:
+ *    - Menu driven with proper flow between menus
+ *    - Separate login system for two roles: ADMIN and STUDENT
+ *    - Four record-management methods for the Question entity:
+ *          Add  /  View  /  Update  /  Search
+ *    - Records stored in ARRAYS at runtime
+ *    - File handling (text files) for permanent storage on disk
+ *    - Exception handling everywhere so the program never crashes
+ *    - Field validation (numeric ranges, non-empty, correct option, etc.)
+ *    - Quiz features: 100 GRE-style MCQs, per-question TIMER,
+ *      DIFFICULTY LEVELS, scoring, instant feedback, shuffled options
+ *    - Each student's result is saved (serialized) to a .txt file
+ *      named by the student's NAME and ID
+ *
+ *  Default admin login ->  username: admin   password: admin123
+ *  (Students can register their own account from the main menu.)
+ * ===================================================================== */
 
 import java.io.BufferedWriter;
 import java.io.File;
