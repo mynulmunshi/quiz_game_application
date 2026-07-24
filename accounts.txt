@@ -1,0 +1,2 @@
+admin|admin123|ADMIN|System Administrator|ADMIN-000|30
+ekramul|12345|STUDENT|Ekramul Islam|SP26-BSE-069|23

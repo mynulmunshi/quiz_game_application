@@ -1,0 +1,19 @@
+=========================================
+Name      : Ekramul Islam
+ID        : SP26-BSE-069
+Date      : 2026-05-31 20:05:58
+Level     : MIXED
+Score     : 5 / 10
+Percentage: 50.0%
+Breakdown :
+Q1: TIMED OUT (correct A)
+Q2: WRONG (you (blank), correct B)
+Q3: CORRECT
+Q4: CORRECT
+Q5: WRONG (you C, correct A)
+Q6: CORRECT
+Q7: WRONG (you C, correct A)
+Q8: CORRECT
+Q9: WRONG (you D, correct C)
+Q10: CORRECT
+=========================================

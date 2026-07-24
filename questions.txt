@@ -1,0 +1,100 @@
+1|MEDIUM|Vocabulary|Choose the word closest in meaning to ABATE.|Intensify|Lessen|Confuse|Gather|1
+2|MEDIUM|Vocabulary|Choose the word closest in meaning to ABERRATION.|Normality|Deviation|Agreement|Clarity|1
+3|HARD|Vocabulary|Choose the word closest in meaning to ABSCOND.|Reveal|Flee secretly|Confront|Remain|1
+4|HARD|Vocabulary|Choose the word closest in meaning to ABSTRUSE.|Obvious|Hard to understand|Pleasant|Brief|1
+5|MEDIUM|Vocabulary|Choose the word closest in meaning to ACERBIC.|Sweet|Sharp or bitter|Gentle|Wide|1
+6|EASY|Vocabulary|Choose the word closest in meaning to ADMONISH.|Praise|Warn or reprimand|Ignore|Reward|1
+7|HARD|Vocabulary|Choose the word closest in meaning to ALACRITY.|Reluctance|Brisk eagerness|Sorrow|Confusion|1
+8|MEDIUM|Vocabulary|Choose the word closest in meaning to AMELIORATE.|Worsen|Improve|Decorate|Confuse|1
+9|HARD|Vocabulary|Choose the word closest in meaning to ANATHEMA.|A blessing|Something detested|A remedy|A tradition|1
+10|MEDIUM|Vocabulary|Choose the word closest in meaning to ANOMALY.|Standard|Irregularity|Routine|Symmetry|1
+11|MEDIUM|Vocabulary|Choose the word closest in meaning to ANTIPATHY.|Deep affection|Strong dislike|Indifference|Curiosity|1
+12|EASY|Vocabulary|Choose the word closest in meaning to APATHY.|Enthusiasm|Lack of interest|Anger|Sympathy|1
+13|MEDIUM|Vocabulary|Choose the word closest in meaning to ASSUAGE.|Aggravate|Ease or soothe|Question|Abandon|1
+14|MEDIUM|Vocabulary|Choose the word closest in meaning to AUSTERE.|Lavish|Severe or plain|Cheerful|Flexible|1
+15|HARD|Vocabulary|Choose the word closest in meaning to BELIE.|Confirm|Contradict or misrepresent|Announce|Support|1
+16|MEDIUM|Vocabulary|Choose the word closest in meaning to CACOPHONY.|Harmony|Harsh discordant sound|Silence|Melody|1
+17|MEDIUM|Vocabulary|Choose the word closest in meaning to CAPRICIOUS.|Steady|Impulsive and unpredictable|Careful|Honest|1
+18|HARD|Vocabulary|Choose the word closest in meaning to CASTIGATE.|Praise|Criticize harshly|Ignore|Reward|1
+19|HARD|Vocabulary|Choose the word closest in meaning to CHURLISH.|Polite|Rude or surly|Generous|Cheerful|1
+20|MEDIUM|Vocabulary|Choose the word closest in meaning to COGENT.|Weak|Convincing|Confusing|Lengthy|1
+21|MEDIUM|Vocabulary|Choose the word closest in meaning to CONFLAGRATION.|A small spark|A large destructive fire|A flood|A celebration|1
+22|MEDIUM|Vocabulary|Choose the word closest in meaning to CONTRITE.|Unrepentant|Deeply remorseful|Arrogant|Joyful|1
+23|MEDIUM|Vocabulary|Choose the word closest in meaning to CREDULOUS.|Skeptical|Gullible|Dishonest|Intelligent|1
+24|MEDIUM|Vocabulary|Choose the word closest in meaning to CURSORY.|Thorough|Hasty and superficial|Careful|Rude|1
+25|MEDIUM|Vocabulary|Choose the word closest in meaning to DEARTH.|Abundance|Scarcity|Wealth|Growth|1
+26|MEDIUM|Vocabulary|Choose the word closest in meaning to DERIDE.|Admire|Ridicule|Explain|Follow|1
+27|HARD|Vocabulary|Choose the word closest in meaning to DESICCATE.|To moisten|To dry out completely|To decorate|To confuse|1
+28|HARD|Vocabulary|Choose the word closest in meaning to DIDACTIC.|Purely entertaining|Intended to instruct|Random|Secretive|1
+29|HARD|Vocabulary|Choose the word closest in meaning to DILATORY.|Prompt|Tending to delay|Generous|Honest|1
+30|MEDIUM|Vocabulary|Choose the word closest in meaning to DISPARAGE.|To praise|To belittle|To gather|To repair|1
+31|MEDIUM|Vocabulary|Choose the word closest in meaning to DOGMATIC.|Open-minded|Asserting opinions arrogantly|Doubtful|Shy|1
+32|HARD|Vocabulary|Choose the word closest in meaning to EBULLIENT.|Gloomy|Enthusiastic and lively|Calm|Tired|1
+33|HARD|Vocabulary|Choose the word closest in meaning to EFFRONTERY.|Shyness|Shameless boldness|Honesty|Fear|1
+34|HARD|Vocabulary|Choose the word closest in meaning to ENERVATE.|To energize|To weaken|To anger|To inspire|1
+35|MEDIUM|Vocabulary|Choose the word closest in meaning to EPHEMERAL.|Permanent|Short-lived|Heavy|Ancient|1
+36|HARD|Vocabulary|Choose the word closest in meaning to EQUIVOCATE.|To speak clearly|To use ambiguous language|To shout|To agree|1
+37|MEDIUM|Vocabulary|Choose the word closest in meaning to ERUDITE.|Ignorant|Scholarly|Rude|Lazy|1
+38|HARD|Vocabulary|Choose the word closest in meaning to ESCHEW.|To embrace|To deliberately avoid|To eat|To find|1
+39|HARD|Vocabulary|Choose the word closest in meaning to FATUOUS.|Wise|Silly or foolish|Thin|Angry|1
+40|MEDIUM|Vocabulary|Choose the word closest in meaning to GARRULOUS.|Silent|Excessively talkative|Honest|Shy|1
+41|MEDIUM|Text Completion|Despite the critic's _____ review, the play attracted huge audiences.|Glowing|Scathing|Lengthy|Accurate|1
+42|EASY|Text Completion|Her _____ nature made her a beloved teacher, always patient with struggling students.|Irascible|Benevolent|Aloof|Deceitful|1
+43|MEDIUM|Text Completion|The hypothesis was so _____ that even experts struggled to follow it.|Lucid|Abstruse|Trivial|Popular|1
+44|HARD|Text Completion|Although usually _____, he became surprisingly animated when discussing music.|Gregarious|Taciturn|Jovial|Loud|1
+45|MEDIUM|Text Completion|The dictator ruled with an iron fist, brooking no _____.|Loyalty|Dissent|Wealth|Order|1
+46|HARD|Text Completion|The evidence was _____; it pointed unmistakably to a single conclusion.|Ambiguous|Incontrovertible|Scarce|Misleading|1
+47|EASY|Text Completion|A good editor must be _____, catching even the smallest of errors.|Careless|Meticulous|Hasty|Generous|1
+48|HARD|Text Completion|His argument, though initially persuasive, ultimately proved _____.|Sound|Specious|Honest|Clear|1
+49|MEDIUM|Text Completion|The once-_____ kingdom fell into ruin after years of mismanagement.|Prosperous|Impoverished|Tiny|Hidden|0
+50|MEDIUM|Text Completion|She remained _____ in the face of criticism, refusing to change her stance.|Wavering|Resolute|Timid|Confused|1
+51|HARD|Text Completion|The professor's lectures were so _____ that students often dozed off.|Riveting|Soporific|Brief|Hilarious|1
+52|HARD|Text Completion|The diplomat's _____ remarks were designed to avoid offending any party.|Inflammatory|Anodyne|Honest|Detailed|1
+53|HARD|Text Completion|Far from being _____, the new policy created even more confusion.|Ameliorative|Harmful|Costly|Popular|0
+54|MEDIUM|Text Completion|The detective's _____ for detail allowed her to solve the case.|Disregard|Penchant|Fear|Hatred|1
+55|MEDIUM|Text Completion|His strict _____ to the truth made him a trusted witness.|Aversion|Adherence|Indifference|Opposition|1
+56|EASY|Quantitative|If 3x + 7 = 22, what is x?|3|5|7|15|1
+57|EASY|Quantitative|What is 15% of 200?|15|20|30|45|2
+58|EASY|Quantitative|A rectangle has length 8 and width 5. What is its area?|13|26|40|80|2
+59|EASY|Quantitative|What is the average of 4, 8 and 12?|6|8|10|12|1
+60|MEDIUM|Quantitative|If 2^x = 32, what is x?|4|5|6|16|1
+61|EASY|Quantitative|A train travels 180 km in 3 hours. What is its average speed in km/h?|50|60|90|540|1
+62|MEDIUM|Quantitative|What is the value of 7! / 5!?|2|12|42|5040|2
+63|MEDIUM|Quantitative|If the ratio of boys to girls is 3:2 and there are 30 students, how many girls are there?|10|12|15|18|1
+64|MEDIUM|Quantitative|Solve x^2 - 9 = 0 for the positive value of x.|3|9|-3|81|0
+65|EASY|Quantitative|What is the square root of 144?|11|12|13|14|1
+66|HARD|Quantitative|A shirt costs $40 after a 20% discount. What was its original price?|$48|$50|$60|$80|1
+67|MEDIUM|Quantitative|The sum of three consecutive integers is 72. What is the largest?|23|24|25|26|2
+68|MEDIUM|Quantitative|A circle has radius 7. Using pi about 22/7, what is its area?|44|154|22|49|1
+69|MEDIUM|Quantitative|If x + y = 10 and x - y = 4, what is x?|3|5|7|14|2
+70|EASY|Quantitative|25% of a number is 50. What is the number?|100|150|200|12.5|2
+71|MEDIUM|Quantitative|What is the next number: 2, 6, 12, 20, __ ?|24|28|30|32|2
+72|MEDIUM|Quantitative|If 5 workers build a wall in 8 days, how many days for 10 workers at the same rate?|2|4|8|16|1
+73|MEDIUM|Quantitative|A bag has 4 red and 6 blue balls. What is the probability of drawing a red ball?|0.4|0.6|0.5|0.25|0
+74|MEDIUM|Quantitative|The perimeter of a square is 36. What is its area?|36|49|81|144|2
+75|EASY|Quantitative|Simplify 3/4 + 1/8.|4/12|7/8|1/2|5/8|1
+76|HARD|Quantitative|If f(x) = 2x^2 - 3x + 1, what is f(2)?|1|3|7|11|1
+77|HARD|Quantitative|A number increased by 30% becomes 65. What was the number?|45.5|50|55|35|1
+78|MEDIUM|Quantitative|The angles of a triangle are in the ratio 1:2:3. What is the largest angle?|30|60|90|120|2
+79|EASY|Quantitative|Express 0.25 as a fraction in lowest terms.|1/2|1/4|1/5|2/5|1
+80|MEDIUM|Quantitative|If 12 is 40% of x, what is x?|4.8|24|30|48|2
+81|HARD|Vocabulary|LACONIC most nearly means:|Talkative|Using few words|Lazy|Cheerful|1
+82|MEDIUM|Vocabulary|MOLLIFY most nearly means:|To anger|To soothe|To harden|To confuse|1
+83|MEDIUM|Vocabulary|NEFARIOUS most nearly means:|Virtuous|Extremely wicked|Careless|Generous|1
+84|HARD|Vocabulary|OBDURATE most nearly means:|Flexible|Stubborn|Kind|Brief|1
+85|HARD|Vocabulary|OBSEQUIOUS most nearly means:|Rebellious|Excessively fawning|Honest|Lazy|1
+86|MEDIUM|Vocabulary|PARSIMONIOUS most nearly means:|Generous|Stingy|Wealthy|Careless|1
+87|HARD|Vocabulary|PELLUCID most nearly means:|Murky|Transparently clear|Loud|Hidden|1
+88|HARD|Vocabulary|PERFIDIOUS most nearly means:|Loyal|Treacherous|Honest|Timid|1
+89|HARD|Vocabulary|PHLEGMATIC most nearly means:|Excitable|Calm and unemotional|Angry|Sickly|1
+90|MEDIUM|Vocabulary|PRODIGAL most nearly means:|Thrifty|Wastefully extravagant|Honest|Shy|1
+91|MEDIUM|Vocabulary|PROSAIC most nearly means:|Poetic|Dull or ordinary|Brief|Loud|1
+92|MEDIUM|Vocabulary|PUGNACIOUS most nearly means:|Peaceful|Eager to fight|Lazy|Honest|1
+93|HARD|Vocabulary|QUIESCENT most nearly means:|Active|In a state of rest|Noisy|Angry|1
+94|HARD|Vocabulary|RECALCITRANT most nearly means:|Obedient|Stubbornly defiant|Cheerful|Honest|1
+95|MEDIUM|Vocabulary|SAGACIOUS most nearly means:|Foolish|Wise and shrewd|Lazy|Loud|1
+96|MEDIUM|Vocabulary|SPURIOUS most nearly means:|Genuine|False or fake|Generous|Brief|1
+97|MEDIUM|Vocabulary|TACITURN most nearly means:|Talkative|Reserved, saying little|Cheerful|Honest|1
+98|HARD|Vocabulary|TRENCHANT most nearly means:|Vague|Sharp and incisive|Gentle|Dull|1
+99|MEDIUM|Vocabulary|UBIQUITOUS most nearly means:|Rare|Present everywhere|Hidden|Ancient|1
+100|MEDIUM|Vocabulary|VERACITY most nearly means:|Falsehood|Truthfulness|Speed|Anger|1
