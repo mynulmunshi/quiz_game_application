@@ -1,4 +1,3 @@
-
 /* =====================================================================
  *  QUIZ GAME APPLICATION  (Programming Fundamentals - CSC103)
  *  A single-file, menu-driven, terminal based MCQ quiz system.
